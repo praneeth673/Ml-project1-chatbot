@@ -12,3 +12,13 @@ https://youtu.be/jQwtqXRv6RU
 ## About chatbot
 This chatbot will help the user to calculate the expressions and to know the present date and time.
 This chatbot will help the students to get the basic information about the engineering colleges in which we have provided.We have provided the information of five engineering colleges as of now.The user can get the information by simply selecting the colleges option and by entering the option of the college in which the user is willing to know the information about it.once the user selects a college then basic information about that college is displayed.To get more information about that college The user can choose particular entity of that college.Based on the selection of the user the information regarding that college will be displayed.This chatbot makes it easier and simple for the students to get an basic idea about the engineering colleges in which they are willing to join.
+## reffered links
+* for random:https://www.w3schools.com/python/module_random.asp
+* for date and time modules:https://www.w3schools.com/python/python_datetime.asp
+* for information:
+http://www.vishnu.edu.in/
+http://www.svecw.edu.in/
+http://srkrec.edu.in/
+http://www.mrec.ac.in/
+https://gecgudlavalleru.ac.in/
+
